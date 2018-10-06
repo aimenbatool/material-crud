@@ -3,4 +3,11 @@
   <a href="https://docs.reactjsgirls.com/" target="blank"><img src="https://material-ui.com/static/images/material-ui-logo.svg" width="200" height="200"  alt="ReactJS Girls Logo" /></a>
 </h1>
 
-A small CRUD app using Material UI.
+<div align="center"> </div>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://github.com/aimenbatool/material-crud)
+[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars)](https://github.com/aimenbatool/material-crud)
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+
+
+An opensource fitness CRUD application implemented in React using Material-UI.
