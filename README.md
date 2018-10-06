@@ -11,3 +11,11 @@
 
 
 An opensource fitness CRUD application implemented in React using Material-UI.
+
+## Contributing
+
+Everyone is welcome to contribute. Feel free to submit issues and open PRs.
+
+## License
+
+MIT License, see the included [License.md](License.md) file.
