@@ -5,9 +5,9 @@
 
 <div align="center"> </div>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://github.com/aimenbatool/material-crud)
+[![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow%20@AimenBatool)](https://twitter.com/aimenbatool/material-crud)
 [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars)](https://github.com/aimenbatool/material-crud)
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](License.md)
 
 
 An opensource fitness CRUD application implemented in React using Material-UI.
